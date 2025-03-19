@@ -1,5 +1,5 @@
 I'm from [_Taiwan_](https://eng.taiwan.net.tw/)\
-I just graduate from [_NYCU ECE_](https://www.dece.nctu.edu.tw/)
+I graduated from [_NYCU EE_](https://dee.nycu.edu.tw/?locale=en)
 <!---
 How many times must I adjust its content?
 --->
