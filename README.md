@@ -1,5 +1,8 @@
-I'm from [_Taiwan_](https://eng.taiwan.net.tw/)\
-I graduated from [_NYCU EE_](https://dee.nycu.edu.tw/?locale=en)
+I'm from [_Taiwan_](https://eng.taiwan.net.tw/).\
+I graduated from [_NYCU EE_](https://dee.nycu.edu.tw/?locale=en).\
+I studied communications as a grad student in [_NKCU CCE_](https://cce.ee.ncku.edu.tw/).
+
+I'm interested in signal processing, wireless communications and mathematics.
 <!---
 How many times must I adjust its content?
 --->
